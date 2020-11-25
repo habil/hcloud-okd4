@@ -1,13 +1,13 @@
 provider "cloudflare" {
-  version = "2.11.0"
+  version = "2.12.0"
 }
 
 provider "hcloud" {
-  version = "1.21.0"
+  version = "1.22.0"
 }
 
 provider "template" {
-  version = "2.1.2"
+  version = "2.2.0"
 }
 
 provider "local" {
